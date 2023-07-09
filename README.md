@@ -50,7 +50,7 @@ Let's assume a file `persons.json` that contains the following JSON data:
             "profession" : "Physicist"
         },
         {
-            "_id" : 3,
+            "id" : 3,
             "name" : "Nick Doe",
             "age" : 40,
             "address" : {
@@ -59,7 +59,7 @@ Let's assume a file `persons.json` that contains the following JSON data:
             }
         },
         {
-            "_id" : 4,
+            "id" : 4,
             "name" : "John Smit",
             "age" : 37,
             "address" : "A Street #50",
