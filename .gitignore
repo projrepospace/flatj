@@ -1,0 +1,7 @@
+*.class
+.gradle
+build/kotlin/*
+build/classes/*
+build/reports/*
+build/tmp/*
+build/test-results/*
